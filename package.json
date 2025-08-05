@@ -1,0 +1,17 @@
+{
+    "name": "com.nitou.upm-utils",
+    "version": "0.1.0",
+    "displayName": "UPM Utils",
+    "description": "Unity Package Manager Utils",
+    "author": {
+        "name": "Nitou",
+        "url": "https://github.com/nitou-kanazawa"
+    },
+    "unity": "6000.0",
+    "license": "MIT License",
+    "category": "UPM",
+    "keywords": [
+        "UPM",
+        "Editor"
+    ]
+}
